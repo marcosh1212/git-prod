@@ -2,4 +2,4 @@ git curso
 
 Meu primeiro arquivo no git.
 
-aisuhdfisahdfusahfAdicionando nova linha
+Adicionando nova linha
