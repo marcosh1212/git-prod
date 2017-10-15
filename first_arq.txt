@@ -1,5 +1,3 @@
 git curso
 
 Meu primeiro arquivo no git.
-
-Adicionando nova linha
